@@ -44,7 +44,7 @@ const Footer = () => {
                         <a href="#">Phone : +91 9990-73-22-73</a>
                       </li>
                       <li>
-                        <a href="#">Email : <a href="mailto:info@vittiyam.com">info@thequintet.in</a></a>
+                        <a href="#">Email : <a href="mailto:info@vittiyam.com">labsandassociates.ca@gmail.com</a></a>
                       </li>
                     </ul>
                   </div>

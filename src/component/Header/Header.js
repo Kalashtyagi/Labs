@@ -48,7 +48,7 @@ function Header() {
     <section id="topbar" className="d-flex align-items-center">
     <div className="container d-flex justify-content-center justify-content-md-between">
       <div className="contact-info d-flex align-items-center">
-        <i className="bi bi-envelope d-flex align-items-center"><a href="https://mail.google.com/mail/u/0/#inbox">info@thequintet.in</a></i>
+        <i className="bi bi-envelope d-flex align-items-center"><a href="https://mail.google.com/mail/u/0/#inbox">labsandassociates.ca@gmail.com</a></i>
         <i className="bi bi-phone d-flex align-items-center ms-4"><span><a href="tel:+91 96346 91832"> +91 9990-73-22-73 (Ind)</a></span></i>
       </div>
     {/* <div class="search-box">
